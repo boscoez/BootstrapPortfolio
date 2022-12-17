@@ -57,12 +57,6 @@ Now you get a `theme` folder that has all the changes you have made. you can use
 
 👉🏻 [visit documentation](https://docs.themefisher.com/blue-pro/)
 
-<!-- reporting issue -->
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the blue-pro Template. Please Search [existing issues](https://github.com/themefisher/blue-pro/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/blue-pro/issues).
-
 <!-- support -->
 ## Technical Support or Questions (Paid)
 
@@ -71,7 +65,7 @@ If you have questions or need help integrating the product please [contact us](m
 <!-- licence -->
 ## License
 
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
+Copyright (c) 2016 - Present, Designed & Developed by [Themefisher.IlmequamSolutions](https://themefisher.com)
 
 **Code License:** Released under the [MIT](https://github.com/themefisher/blue-pro/blob/main/LICENSE) license.
 
